@@ -1,0 +1,9 @@
+{
+    "name": "hexlet/code",
+    "bin": [
+      "bin/brain-games"
+    ],
+    "description": "hexlet php-package",
+    "license": "MIT",
+    "require": {}
+}
